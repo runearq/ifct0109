@@ -1,0 +1,6 @@
+root
+password
+toor
+admin
+enter
+list
